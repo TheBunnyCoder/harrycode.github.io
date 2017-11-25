@@ -1,3 +1,3 @@
-var app = new PLAYGROUND.Application({
+var app = new PLAYGROUND.Application ({
 
 });
