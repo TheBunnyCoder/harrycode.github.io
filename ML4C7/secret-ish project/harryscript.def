@@ -1,0 +1,9 @@
+// Note, most file types are fake.
+
+// a .def is crucial for using HarryScript as it defines what HarryScript is looking for out of a file type.
+
+HarryScript {
+  file-types {
+    ".hs"
+  }
+}
