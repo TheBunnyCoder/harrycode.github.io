@@ -1,0 +1,1 @@
+I want things to change. I don't want to be in this reality. Please, **take** me back to where everything was normal. This is a dead end. We need to get back to the puzzle. Remember the ethos, "Numbers are the way".
